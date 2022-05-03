@@ -1,0 +1,9 @@
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 1.25rem !important;
+        padding-left: 1.25rem !important;
+    }
+    .team-padding {
+        padding: 0 5rem;
+    }
+}

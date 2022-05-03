@@ -1,0 +1,268 @@
+.navbar {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+.bg-white {
+    background-color: #fff!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0) !important;
+}
+.call_tel {
+    font-weight: 400;
+    color: #000;
+}
+
+#section1 > .container-fluid {
+    background-image: url(../img/banner-bg.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-title-sm {
+    color: #C0C0C2;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.banner-title-lg {
+    color: #fff;
+    width: 40%;
+    font-size: 48px;
+}
+
+.btn_fit {
+    background: #5EB6E1;
+    color: #000;
+    border-radius: 8px;
+    border: none;
+    font-weight: 500;
+    padding: 12px 24px;
+}
+
+.fitness_btn-lg {
+    width: 15rem !important;
+}
+.fitness_btn-md {
+    width: 10rem !important;
+}
+.fitness_btn-sm {
+    width: 9rem !important;
+}
+.banner-content {
+    padding: 14rem 0;
+}
+.banner-card {
+    width: 100%;
+    height: auto;
+    min-height: 233px;
+    position: relative;
+}
+.banner-card > img {
+    height: auto;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.banner-card-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+.card-title {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+}
+.card-descripton {
+    color: #fff;
+    font-size: 18px;
+}
+.card_btn {
+    border: navajowhite;
+    color: #fff;
+    padding: 8px 24px;
+}
+.center-content{
+    position: relative;
+    text-align: center;
+}
+.bg-orange{background: #FF6C2C !important;}
+.bg-rebeccapurple{background: #945B9F !important;}
+.bg-aqua{background: #5EB6E1 !important;}
+
+.__bottom250 {
+    margin-bottom: 9rem;
+}
+.aboutus-sm {
+    color: #FF6C2C;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 600;
+}
+.aboutus-lg {
+    font-size: 56px;
+    font-weight: 500;
+}
+
+.w-90{
+    width: 90%!important;
+}
+.aboutus-md {
+    color: #FF6C2C;
+    font-size: 24px;
+}
+
+#section3 > .container-fluid {
+    width: 100%;
+    background: #222224;
+    padding: 4.5rem 10rem;
+}
+
+.ourclasses_lg{
+    font-size: 40px;
+    font-weight: 500;
+}
+.ourclasses_md {
+    font-size: 18px;
+    line-height: 1.8;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.our-card {
+    width: 33.3333%;
+    position: relative;
+}
+
+.our-card > img {
+    height: auto;
+    min-height: 374px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    transition: all 1s !important; 
+}
+
+.transparent-bg {
+    width: 100%;
+    height: auto;
+    padding: 20px 0;
+    background: #000;
+    opacity: .75;
+    position: absolute;
+    bottom: 0;
+    transition: all 1s !important; 
+}
+
+.our-card:hover > .transparent-bg {
+    display: none;
+    transition: all 1s !important; 
+}
+
+.our-card:hover > .blue-box {
+    display: block;
+    transition: all 1s !important; 
+}
+
+.blue-box {
+    background: #00A2FF;
+    padding: 4rem 2rem;
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: .75;
+    display: none;
+    transition: all 1s !important;
+}
+.read-more {
+    border: none;
+    padding: 8px 28px;
+    border-radius: 50px;
+}
+.out-team > p {
+    padding: 0 20rem;
+}
+.team-card {
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+}
+
+.team-card > img {
+    width: 100%;
+    height: auto;
+    max-height: 410px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+ul > li {
+    display: inline;
+    padding: 0 24px 0 0;
+}
+ul > li > a > img {
+    height: 18px;
+    width: auto;
+}
+.team-card-content {
+    padding: 1.25rem 0;
+}
+
+#section5 > .container-fluid {
+    width: 100%;
+    background: #181A1F;
+    padding: 4.5rem 10rem;
+}
+.slider-img {
+    width: 7.5rem;
+    height: auto;
+    border: solid 2px #5EB6E1;
+    border-radius: 75px;
+}
+.carousel-item > .d-grid > p {
+    text-align: center;
+    padding: 0 21rem;
+    line-height: 1.8;
+}
+.carousel-item {
+    padding: 3rem 0;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 8px !important;
+    height: 8px !important;
+    opacity: 1 !important;
+    background-color: #5eb6e1 !important;
+    border-radius: 50%;
+}
+.carousel-indicators .active {
+    width: 10px !important;
+    height: 10px !important;
+    position: relative;
+    bottom: 1px;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iR3JvdXBfODEiIGRhdGEtbmFtZT0iR3JvdXAgODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM5IiBoZWlnaHQ9IjM5IiB2aWV3Qm94PSIwIDAgMzkgMzkiPgogIDxwYXRoIGlkPSJQYXRoXzgwIiBkYXRhLW5hbWU9IlBhdGggODAiIGQ9Ik0xOS41LDBBMTkuNSwxOS41LDAsMSwwLDM5LDE5LjUsMTkuNSwxOS41LDAsMCwwLDE5LjUsMFoiIGZpbGw9IiM1ZWI2ZTEiLz4KICA8cGF0aCBpZD0iaW9zLWFycm93LWZvcndhcmQiIGQ9Ik0xNjMuMDQ2LDk3LjFsNi44LTYuNzkyYTEuMjc4LDEuMjc4LDAsMCwwLDAtMS44MTMsMS4yOTQsMS4yOTQsMCwwLDAtMS44MTgsMGwtNy43LDcuN2ExLjI4MSwxLjI4MSwwLDAsMC0uMDM3LDEuNzdsNy43MzMsNy43NDlhMS4yODQsMS4yODQsMCwxLDAsMS44MTgtMS44MTNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTQ1LjUzNiAtNzcuNjA3KSIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K") !important;
+}
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0iR3JvdXBfNjMiIGRhdGEtbmFtZT0iR3JvdXAgNjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM5IiBoZWlnaHQ9IjM5IiB2aWV3Qm94PSIwIDAgMzkgMzkiPgogIDxwYXRoIGlkPSJQYXRoXzgwIiBkYXRhLW5hbWU9IlBhdGggODAiIGQ9Ik0xOS41LDBBMTkuNSwxOS41LDAsMSwxLDAsMTkuNSwxOS41LDE5LjUsMCwwLDEsMTkuNSwwWiIgZmlsbD0iIzVlYjZlMSIvPgogIDxwYXRoIGlkPSJpb3MtYXJyb3ctZm9yd2FyZCIgZD0iTTE2Ny4xMjQsOTcuMWwtNi44LTYuNzkyYTEuMjc4LDEuMjc4LDAsMCwxLDAtMS44MTMsMS4yOTQsMS4yOTQsMCwwLDEsMS44MTgsMGw3LjcsNy43YTEuMjgxLDEuMjgxLDAsMCwxLC4wMzcsMS43N2wtNy43MzMsNy43NDlhMS4yODQsMS4yODQsMCwwLDEtMS44MTgtMS44MTNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTQ1LjYzNCAtNzcuNjA3KSIgZmlsbD0iI2ZmZiIvPgo8L3N2Zz4K") !important;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    opacity: 1 !important;
+}
+.recent-card {
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    padding: 1.25rem;
+    background: #13191A;
+}
+.recent-title {
+    color: #5EB6E1;
+    font-weight: 500;
+    line-height: 1.6;
+    font-size: 18px;
+}
