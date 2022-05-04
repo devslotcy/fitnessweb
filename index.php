@@ -346,7 +346,49 @@
     </div>
 </section>
 
-
+<section id="section7">
+    <div class="container-fluid p-0">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="contact-form">
+                    <h2 class="text-white mb-4">Contact Us</h2>
+                    <form class="mb-5" action="#">
+                        <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg">
+                            <option selected>Open this select menu</option>
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                        </select>
+                        <input type="email" class="fitness-input w-100 mb-4" placeholder="Email">
+                        <div class="form-floating mb-5">
+                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                        </div>
+                        <button type="button" class="btn_fit w-100">Submit</button>
+                    </form>
+                    <div class="social-sm">
+                        <div class="d-grid">
+                            <div class="contact-sm text-white mb-3">
+                                <span>email@example.com</span>
+                                <span>|</span>
+                                <span>+002-010-66269735</span>
+                            </div>
+                            <div class="contact-sm-social">
+                                <ul>
+                                    <li><a href="#"><img src="./assets/img/facebook-f.svg"></a></li>
+                                    <li><a href="#"><img src="./assets/img/linkedin-in.svg"></a></li>
+                                    <li><a href="#"><img src="./assets/img/twitter.svg"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <img class="w-100" src="./assets/img/contact-img.png">
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

@@ -1,3 +1,9 @@
+html, body{
+    overflow-x: hidden;
+}
+::placeholder {
+    color: #7c7d7f !important;
+}
 .navbar {
     padding-top: 1rem !important;
     padding-bottom: 1rem !important;
@@ -265,4 +271,30 @@ ul > li > a > img {
     font-weight: 500;
     line-height: 1.6;
     font-size: 18px;
+}
+
+/*contact*/
+#section7 > .container-fluid {
+    width: 100%;
+    background: #181A1F;
+}
+.form-select-lg, .fitness-input {
+    font-size: 16px !important;
+    background: transparent !important;
+    border: solid 1px #5EB6E1 !important;
+    color: #7c7d7f !important;
+    padding-top: .75rem !important;
+    padding-bottom: .75rem !important;
+    padding-left: 1rem !important;
+    border-radius: .25rem !important;
+}
+
+.form-control {
+    background-color: transparent !important;
+    border: solid 1px #5EB6E1 !important;
+    color: #7c7d7f !important;
+}
+
+ol, ul {
+    padding-left: 0 !important;
 }
