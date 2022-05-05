@@ -390,8 +390,76 @@
     </div>
 </section>
 
+<section id="section8">
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 d-flex align-items-center">
+                    <img class="header-logo mx-5" src="./assets/img/logo-white.svg">
+                </div>
+                <div class="col-lg-2">
+                    <div class="d-grid">
+                        <h5 class="mb-4 text-white">Quick Contacts</h5>
+                        <p class="text-white">50 Raritan Center Pkwy, Edison, NJ 08837, USA</p>
+                        <div class="d-flex mb-2">
+                            <img class="me-2" src="./assets/img/phone.svg">
+                            <span class="text-white">+00 111 222 1234</span>
+                        </div>
+                        <div class="d-flex mb-4">
+                            <img class="me-2" src="./assets/img/mail.svg">
+                            <span class="text-white">bestrong@gmail.com</span>
+                        </div>
+                        <div class="d-flex">
+                            <span><a target="_blank" href="#"><img class="social-img" src="./assets/img/instagram-lg.svg"></span></a>
+                            <span><a target="_blank" href="#"><img class="social-img" src="./assets/img/twitter-lg.svg"></span></a>
+                            <span><a target="_blank" href="#"><img class="social-img" src="./assets/img/facebook-lg.svg"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="d-grid">
+                        <h5 class="mb-4 text-white">Popular Tags</h5>
+                        <div class="footer-buttons">
+                            <button type="button" class="btn_footer">WORKOUT</button>
+                            <button type="button" class="btn_footer">CROSSFIT</button>
+                            <button type="button" class="btn_footer">SHEDULE</button>
+                            <button type="button" class="btn_footer">TRAINERS</button>
+                            <button type="button" class="btn_footer active_btn">BOXING</button>
+                            <button type="button" class="btn_footer">SHEDULE</button>
+                            <button type="button" class="btn_footer">NUTRITION</button>
+                            <button type="button" class="btn_footer">GYM</button>
+                            <button type="button" class="btn_footer">PLANS</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section id="section9">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="footer-list text-center">
+                <ul>
+                    <li><a target="_blank" href="#">Home</a></li>
+                    <li><a target="_blank" href="#">About Us</a></li>
+                    <li><a target="_blank" href="#">Classes</a></li>
+                    <li><a target="_blank" href="#">News</a></li>
+                    <li><a target="_blank" href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section id="section10">
+    <div class="container-fluid">
+        <div class="row text-center">
+            <p class="text-muted">©2019 Prelude by Gym-Co. All Rights Reserved</p>
+        </div>
+    </div>
+</section>
 
 
 

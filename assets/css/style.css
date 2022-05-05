@@ -298,3 +298,53 @@ ul > li > a > img {
 ol, ul {
     padding-left: 0 !important;
 }
+#section8 > .container-fluid {
+    width: 100%;
+    background: #19191C;
+    padding: 6rem 0;
+}
+.social-img {
+    width: 34px;
+    height: 34px;
+    margin-right: 1rem;
+}
+.btn_footer {
+    width: auto;
+    background: transparent;
+    color: #979797;
+    border: solid 1px #979797;
+    margin-right: .25rem;
+    margin-bottom: .5rem;
+    padding: .5rem 1rem;
+}
+.footer-buttons {
+    flex-wrap: wrap;
+    width: 70%;
+}
+.active_btn{
+    background: #5EB6E1 !important;
+    color: #fff !important;
+}
+#section9 > .container-fluid {
+    width: 100%;
+    background: #5EB6E1;
+    padding: 1rem 0;
+}
+dl, ol, ul {
+    margin-bottom: 0 !important;
+}
+.footer-list > ul > li > a {
+    color: #000;
+    text-decoration: none;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+#section10 > .container-fluid {
+     width: 100%;
+     background: #24272E;
+     padding: 1.5rem 0;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
